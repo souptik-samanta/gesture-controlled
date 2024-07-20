@@ -1,4 +1,4 @@
-# gesture-controlled
+# gesture-controlled-car
 Created by none other than Souptik Samanta
 components required 
 adxl 345 
